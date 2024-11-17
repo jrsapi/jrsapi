@@ -1,3 +1,7 @@
+<p style="color: #00ff00; font-family: 'Courier New', monospace; background-color: black; padding: 10px;">
+Welcome to my GitHub Terminal! 🖥️
+</p>
+
 ## Hi 👋
 
 <!--

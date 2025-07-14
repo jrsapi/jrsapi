@@ -5,5 +5,5 @@
 -->
 - 🔭 I’m currently working on Kubernetes Platform Engineering with Adobe  
 - 💬 Ask me about anything Infrastructure, Cloud Native, Open Source  
-- ❤️ Love: Tacos, Tortas, Cats, Dogs, native farm life, lowriders, punk rock, industrial noise, and chaos in general
+- ❤️ Love: Tacos, Tortas, Cats, Dogs, lowriders, punk rock, industrial noise...
 

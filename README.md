@@ -17,7 +17,7 @@ I’m focused on how platform teams become the operating layer for the next gene
 
 The through line in my work is simple: reduce cognitive load for engineers without hiding the operational truth from them.
 
-## Useful context
+## How I work
 
 - I work across product, engineering, open source, and executive stakeholders.
 - I care about platforms that are adopted because they solve real workflow pain, not because they were mandated.

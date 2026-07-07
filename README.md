@@ -2,18 +2,18 @@
 
 I build cloud-native platforms that make engineering teams faster, safer, and more resilient.
 
-Principal Product Manager at Adobe. CNCF Technical Oversight Committee member. CNCF End User Technical Advisory Board Vice Chair. Former KubeCon co-chair.
+Principal Product Manager at Adobe, leading Ethos. CNCF Technical Oversight Committee member. CNCF End User Technical Advisory Board Vice Chair. Former KubeCon co-chair.
 
 ## What I work on
 
-- **Developer platforms:** paved roads for build, deploy, observe, secure, and operate workflows
-- **Cloud native infrastructure:** Kubernetes, GitOps, platform engineering, SRE, and open source governance
+- **Developer platforms:** paved roads for build, deploy, observe, secure, and operate workflows across enterprise developer platforms
+- **Cloud native infrastructure:** Kubernetes, GitOps, platform engineering, SRE, and open source governance at global platform scale
 - **AI-native operations:** agent workflows, internal automation, and the infrastructure patterns needed to run them safely
 - **Community leadership:** CNCF project strategy, end-user feedback loops, conference programming, and practitioner storytelling
 
 ## Current focus
 
-I am interested in how platform teams become the operating layer for the next generation of software delivery: AI-assisted development, trusted automation, observable systems, and production-grade developer experience.
+I’m focused on how platform teams become the operating layer for the next generation of software delivery: AI-assisted development, trusted automation, observable systems, and production-grade developer experience.
 
 The through line in my work is simple: reduce cognitive load for engineers without hiding the operational truth from them.
 

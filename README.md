@@ -30,4 +30,4 @@ The through line in my work is simple: reduce cognitive load for engineers witho
 ## Elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/josephrsandoval/
-- X: https://x.com/wannebetaquero
+- X: https://x.com/cloudtaquero
